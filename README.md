@@ -23,9 +23,12 @@
 
 Hello there! I'm Priyanshu Paritosh, a final-year Mechatronics and Automation engg. student at IIIT Bhagalpur who's decided that building physical robots isn't enough - I want to build their brains too! 🤖
 
-- 🧠 My main quest is to become an AI/ML Engineer, swapping nuts and bolts for neural networks.
-- 🔭 I'm endlessly curious about how AI systems work (and sometimes break!) when they're scaled up to massive sizes.
-- ✨ When I'm not building models, I moonlight as a data detective, searching for the stories hidden within the numbers.
+#### The Catuṣkoṭi Way
+
+- I am an aspiring **ML Engineer**, trained in classical and deep learning.
+- I am not just an aspiring **Data Scientist**, as I architect systems, not only analyze data.
+- I am both the **Engineer** who builds and the **Scientist** who discovers.
+- Ultimately, I am neither; with Generative AI, I am the aspiring **AI Engineer**!
 
 ---
 
