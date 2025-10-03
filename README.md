@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Paritosh</h1>
-<h3 align="center">Building AI systems on the journey to becoming an AI Engineer, with a curiosity for data science.</h3>
+<h3 align="center">Architecting intelligent systems. An aspiring AI Engineer with a passion for data science.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gamerguy27072&label=Profile%20views&color=0e75b6&style=flat" alt="gamerguy27072" /> 
