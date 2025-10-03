@@ -25,7 +25,7 @@ Hello there! I'm Priyanshu Paritosh, a final-year Mechatronics and Automation en
 
 #### The Catuṣkoṭi Way
 
-- I am an aspiring **ML Engineer**, trained in classical and deep learning.
+- I am an aspiring **ML Engineer**, trained in classical ML and deep learning.
 - I am not just an aspiring **Data Scientist**, as I architect systems, not only analyze data.
 - I am both the **Engineer** who builds and the **Scientist** who discovers.
 - Ultimately, I am neither; with Generative AI, I am the aspiring **AI Engineer**!
