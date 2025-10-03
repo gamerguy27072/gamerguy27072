@@ -29,7 +29,7 @@ Hello there! I'm Priyanshu Paritosh, a final-year Mechatronics and Automation en
 
 ---
 
-### 🏆 Achievements
+### 🏆 My Commit History !
 
 - 📜 **[Published a research paper](https://ieeexplore.ieee.org/abstract/document/10910502)** on Machine Learning at the IEEE International Conference, SILCON 2024.
 - 🥇 **1st Place Winner** at the GFG Solving For India Hackathon 2023, competing as the **only first-year team** among 30+ participants.
@@ -38,7 +38,7 @@ Hello there! I'm Priyanshu Paritosh, a final-year Mechatronics and Automation en
 
 ---
 
-### ✨ Highlights
+### ✨ My tl;dr !
 
 - 🧑‍🏫 As the **Club In-Charge** of the Artificial Intelligence Club (AIC) at IIIT Bhagalpur, I mentor students in AI/ML, emphasizing a unique **Systems Thinking** approach to problem-solving.
 - 🛠️ Engineered **[Ambitus](https://github.com/Ambitus-Intelligence/ambitus-ai-models/)**, a TUI-first, AI-powered market research engine. Gained extensive experience in development and debugging while preparing the tool for its upcoming release as a Python package.
