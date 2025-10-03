@@ -32,8 +32,9 @@ Hello there! I'm Priyanshu Paritosh, a final-year Mechatronics and Automation en
 ### 🏆 My Commit History !
 
 - 📜 **[Published a research paper](https://ieeexplore.ieee.org/abstract/document/10910502)** on Machine Learning at the IEEE International Conference, SILCON 2024.
-- 🥇 **1st Place Winner** at the GFG Solving For India Hackathon 2023, competing as the **only first-year team** among 30+ participants.
 - 🏅 Achieved a **Top 10 Rank** (9th) in our college's internal Smart India Hackathon (SIH) round in 2024.
+- 🌐 Secured a **Top 50 All-India Rank** (44th) in the Amazon ML Challenge 2024.
+- 🥇 **1st Place Winner** at the GFG Solving For India Hackathon 2023, competing as the **only first-year team** among 30+ participants.
 - 🐙 Actively contributed to multiple open-source projects during **Hacktoberfest 2023**.
 
 ---
