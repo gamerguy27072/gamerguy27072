@@ -23,7 +23,7 @@
 
 Hello there! I'm Priyanshu Paritosh, a final-year Mechatronics and Automation engg. student at IIIT Bhagalpur who's decided that building physical robots isn't enough - I want to build their brains too! 🤖
 
-#### The Catuṣkoṭi Way
+#### The Chatuṣkoṭi Way
 
 - I am an aspiring **ML Engineer**, trained in classical ML and deep learning.
 - I am not just an aspiring **Data Scientist**, as I architect systems, not only analyze data.
